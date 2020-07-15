@@ -6,7 +6,7 @@
 
 	Doctor of Philosophy [Computer Science], [Pursuing], Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
 	Master of Science [Computer Science], [2018], Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
-		Master's Thesis Topic: Sarcasm Detection in Hindi.
+		Master's Thesis Topic: Sarcasm Detection in Hindi using Machine Learning in Python.
 	Master of Business Administration [Finance, Marketing], [2013], WISDOM, Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
 	Bachelor of Science [Computer Science-Honors], [2011], Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
 
