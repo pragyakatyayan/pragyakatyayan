@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! This is Pragya. 👋
 
 🔭 **Research Interests: Natural Language Processing (text), Quantum Machine Learning and Deep Learning.**
 
