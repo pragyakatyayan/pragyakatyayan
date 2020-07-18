@@ -40,4 +40,6 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 <p align="center">
 	<a href="https://github.com/pragyakatyayan"><img src="https://img.shields.io/github/followers/pragyakatyayan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/pragyakatyayan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.researchgate.net/profile/Pragya_Katyayan/research"><img src="https://img.shields.io/badge/ResearchGate--_.svg?style=social&logo=researchgate" alt="ResearchGate"></a>
+	
 </p>
