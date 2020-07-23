@@ -13,6 +13,7 @@
 #### Research Publications:
 
 Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-blue" alt="GoogleScholar"></a>
+<a href="https://www.researchgate.net/profile/Pragya_Katyayan/research"><img src="https://img.shields.io/badge/ResearchGate-black.svg?logo=researchgate" alt="ResearchGate"></a>
 
 #### Notable Articles:
 
@@ -45,6 +46,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 📫 **Contact:** Drop me an e-mail at <my_firstname> [dot] <my_secondname> [at] outlook [dot] com
 
 <p align="center">
+	<a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar--_.svg?style=social&logo=scholar" alt="GoogleScholar"></a>
 	<a href="https://github.com/pragyakatyayan"><img src="https://img.shields.io/github/followers/pragyakatyayan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/pragyakatyayan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.researchgate.net/profile/Pragya_Katyayan/research"><img src="https://img.shields.io/badge/ResearchGate--_.svg?style=social&logo=researchgate" alt="ResearchGate"></a>
