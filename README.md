@@ -38,7 +38,9 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### GitHub Stats:
 
-<a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan&theme=light&hide_langs_below=1" /></a> 
+<a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan&theme=light&hide_langs_below=1" /></a> <a href="https://github.com/pragyakatyayan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakatyayan&show_icons=true&theme=light&line_height=20" alt="github stats"/>
+</a>
 
 📫 **Contact:** Drop me an e-mail at <my_firstname> [dot] <my_secondname> [at] outlook [dot] com
 
