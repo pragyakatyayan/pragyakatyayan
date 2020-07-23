@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="fMCUM2EC34SXDYGE6JK4RjlDSQEZfXkuUJ1sINPIFBQ" />
+
 ### Hi there! This is Pragya. 👋
 
 🔭 **Research Interests: Natural Language Processing (text), Quantum Machine Learning and Deep Learning.**
