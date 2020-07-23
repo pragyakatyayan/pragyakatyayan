@@ -26,14 +26,19 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### Technical Experiences over the years:
 	Actively Working with:
-		Languages: Python 3
-		Machine Learning Toolkits: Qiskit, Scikit-Learn, WEKA, NLTK, Stanford CoreNLP
+		Languages: Python3
+		Quantum Computing Toolkit: Qiskit :qiskitblack:
+		Machine Learning Toolkits: Scikit-Learn, WEKA, NLTK, Stanford CoreNLP
 		Deep Learning Toolkits: Tensorflow, Keras, PyTorch
 	Also Familier with:
 		Languages: Python 2, Prolog, R, Java, C#, D/HTML, Shell Scripts
 		Scripting Languages: Javascript, PHP.
 		Databases: MySQL, MS-SQL Server
 		Tools: MATLAB, LaTex, SciLab
+
+#### GitHub Stats:
+
+<a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan&theme=light&hide_langs_below=1" /></a> 
 
 📫 **Contact:** Drop me an e-mail at <my_firstname> [dot] <my_secondname> [at] outlook [dot] com
 
