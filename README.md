@@ -30,7 +30,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 #### Technical Experiences over the years:
 	Actively Working with:
 		Languages: Python3
-		Quantum Computing Toolkit: Qiskit :qiskitblack:
+		Quantum Computing Toolkit: Qiskit <img height="20" src="https://en.wikipedia.org/wiki/Qiskit#/media/File:Qiskit-Logo.svg" alt="Qiskit">
 		Machine Learning Toolkits: Scikit-Learn, WEKA, NLTK, Stanford CoreNLP
 		Deep Learning Toolkits: Tensorflow, Keras, PyTorch
 	Also Familier with:
