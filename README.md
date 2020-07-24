@@ -5,14 +5,11 @@
 
 #### :mortar_board: Educational Qualifications:
 
-:bulb: Doctor of Philosophy [Computer Science], [Pursuing], Banasthali Vidyapith, Rajasthan, India.
-
-:bulb: Master of Science [Computer Science], [2018], Banasthali Vidyapith, Rajasthan, India.
-	:closed_book: Master's Thesis Topic: Sarcasm Detection in Hindi using Machine Learning in Python.
-
-:bulb: Master of Business Administration [Finance, Marketing], [2013], WISDOM, Banasthali Vidyapith, Rajasthan, India.
-
-:bulb: Bachelor of Science [Computer Science-Honors], [2011], Banasthali Vidyapith, Rajasthan, India.
+:bulb: Doctor of Philosophy [Computer Science], [Pursuing], Banasthali Vidyapith, Rajasthan, India.  
+:bulb: Master of Science [Computer Science], [2018], Banasthali Vidyapith, Rajasthan, India.   
+    :closed_book: Master's Thesis Topic: Sarcasm Detection in Hindi using Machine Learning in Python.    
+:bulb: Master of Business Administration [Finance, Marketing], [2013], WISDOM, Banasthali Vidyapith, Rajasthan, India.    
+:bulb: Bachelor of Science [Computer Science-Honors], [2011], Banasthali Vidyapith, Rajasthan, India.    
 
 #### :books: Research Publications: 
 
@@ -21,14 +18,12 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### :high_brightness: Notable Articles:
 
-:bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “A Quick Look at Quantum Computing”. In Open Source For You (July 2020), Page: 30-34.
-
+:bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “A Quick Look at Quantum Computing”. In Open Source For You (July 2020), Page: 30-34.    
 :bulb: Pragya Katyayan, Nisheeth Joshi (2020, June). “Quantum Machine Learning- Where Quantum Computing Meets Machine Learning”. In CSI Communications-Knowledge Digest for IT Community (June 2020), 44(3), 34-36. Computer Society of India. ISSN: 0970-647X.
 
 #### :high_brightness: Work Experience [brief]:
 
-:bulb: Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]
-
+:bulb: Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]     
 :bulb: Post-graduate teacher to Higher secondary students for Computer Science [Python]. [July 2014 - March 2016]
 
 #### :computer: Technical Experiences over the years:
