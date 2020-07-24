@@ -3,30 +3,36 @@
 
 🔭 **Research Interests: Natural Language Processing (text), Quantum Machine Learning and Deep Learning.**
 
-#### Educational Qualifications:
+#### :mortar_board: Educational Qualifications:
 
-	Doctor of Philosophy [Computer Science], [Pursuing], Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
-	Master of Science [Computer Science], [2018], Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
-		Master's Thesis Topic: Sarcasm Detection in Hindi using Machine Learning in Python.
-	Master of Business Administration [Finance, Marketing], [2013], WISDOM, Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
-	Bachelor of Science [Computer Science-Honors], [2011], Banasthali Vidyapith (Deemed to be University), Rajasthan, India.
+:bulb: Doctor of Philosophy [Computer Science], [Pursuing], Banasthali Vidyapith, Rajasthan, India.
 
-#### Research Publications:
+:bulb: Master of Science [Computer Science], [2018], Banasthali Vidyapith, Rajasthan, India.
+	:closed_book: Master's Thesis Topic: Sarcasm Detection in Hindi using Machine Learning in Python.
+
+:bulb: Master of Business Administration [Finance, Marketing], [2013], WISDOM, Banasthali Vidyapith, Rajasthan, India.
+
+:bulb: Bachelor of Science [Computer Science-Honors], [2011], Banasthali Vidyapith, Rajasthan, India.
+
+#### :books: Research Publications: 
 
 Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-blue" alt="GoogleScholar"></a>
 <a href="https://www.researchgate.net/profile/Pragya_Katyayan/research"><img src="https://img.shields.io/badge/ResearchGate-black.svg?logo=researchgate" alt="ResearchGate"></a>
 
-#### Notable Articles:
+#### :high_brightness: Notable Articles:
 
-	Pragya Katyayan, Nisheeth Joshi (2020, July). “A Quick Look at Quantum Computing”. In Open Source For You (July 2020), Page: 30-34.
-	Pragya Katyayan, Nisheeth Joshi (2020, June). “Quantum Machine Learning- Where Quantum Computing Meets Machine Learning”. In CSI Communications-Knowledge Digest for IT Community (June 2020), 44(3), 34-36. Computer Society of India. ISSN: 0970-647X.
+:bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “A Quick Look at Quantum Computing”. In Open Source For You (July 2020), Page: 30-34.
 
-#### Work Experience [brief]:
+:bulb: Pragya Katyayan, Nisheeth Joshi (2020, June). “Quantum Machine Learning- Where Quantum Computing Meets Machine Learning”. In CSI Communications-Knowledge Digest for IT Community (June 2020), 44(3), 34-36. Computer Society of India. ISSN: 0970-647X.
 
-	Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]
-	Post-graduate teacher to Higher secondary students for Computer Science [Python]. [July 2014 - March 2016]
+#### :high_brightness: Work Experience [brief]:
 
-#### Technical Experiences over the years:
+:bulb: Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]
+
+:bulb: Post-graduate teacher to Higher secondary students for Computer Science [Python]. [July 2014 - March 2016]
+
+#### :computer: Technical Experiences over the years:
+	
 	Actively Working with:
 		Languages: Python3
 		Quantum Computing Toolkit: Qiskit
@@ -38,7 +44,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 		Databases: MySQL, MS-SQL Server
 		Tools: MATLAB, LaTex, SciLab
 
-#### GitHub Stats:
+#### :octocat: GitHub Stats:
 
 <a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan&theme=light&hide_langs_below=1" /></a> <a href="https://github.com/pragyakatyayan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakatyayan&show_icons=true&theme=light&line_height=20" alt="github stats"/>
