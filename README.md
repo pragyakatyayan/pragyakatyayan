@@ -3,8 +3,7 @@
 
 🔭 **Research Interests: Natural Language Processing (text), Quantum Machine Learning and Deep Learning.**
 
-### :sparkles::sparkles: Featured: :sparkles::sparkles:   
-Got featured as a technologist role-model by 1 Million Women in STEM. [Link](https://www.1mwis.com/profiles/Pragya-Katyayan)
+:sparkles::sparkles: **Featured:** :sparkles::sparkles: Got featured as a technologist role-model by 1 Million Women in STEM. [Link](https://www.1mwis.com/profiles/Pragya-Katyayan)
 
 #### :mortar_board: Educational Qualifications:
 
