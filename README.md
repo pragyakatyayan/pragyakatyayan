@@ -44,7 +44,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 #### :octocat: GitHub Stats:
 
 <a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan&layout=compact&hide_langs_below=1" /></a> <a href="https://github.com/pragyakatyayan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakatyayan&hide=contribs,prs,issues&count_private=true&show_icons=true" alt="github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakatyayan&count_private=true&show_icons=true" alt="github stats"/>
 </a>
 
 📫 **Contact:** Drop me an e-mail at <my_firstname> [dot] <my_secondname> [at] outlook [dot] com
@@ -57,3 +57,5 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 	<a href="https://twitter.com/pragyakatyayan"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="TwitterHandle"></a>
 	
 </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pragyakatyayan&label=Visits&color=orange&style=plastic" /> </p>
