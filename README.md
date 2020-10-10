@@ -43,13 +43,14 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### :octocat: GitHub Stats:
 
-<a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan&layout=compact&hide_langs_below=1" /></a> <a href="https://github.com/pragyakatyayan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakatyayan&count_private=true&show_icons=true" alt="github stats"/>
+<a href="https://github.com/pragyakatyayan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyakatyayan" /></a> <a href="https://github.com/pragyakatyayan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyakatyayan&&hide=issues&count_private=true&show_icons=true" alt="github stats"/>
 </a>
 
 📫 **Contact:** Drop me an e-mail at <my_firstname> [dot] <my_secondname> [at] outlook [dot] com
 
 <p align="center">
+	<a href="https://medium.com/@pragyakatyayan"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
 	<a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar--_.svg?style=social&logo=scholar" alt="GoogleScholar"></a>
 	<a href="https://github.com/pragyakatyayan"><img src="https://img.shields.io/github/followers/pragyakatyayan.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/pragyakatyayan"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
