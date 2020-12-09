@@ -3,7 +3,12 @@
 
 🔭 **Research Interests: Natural Language Processing (text), Quantum Machine Learning and Deep Learning.**
 
-:sparkles::sparkles: **Featured:** :sparkles::sparkles: Got featured as a technologist role-model by 1 Million Women in STEM. [Link](https://www.1mwis.com/profiles/Pragya-Katyayan)
+:sparkles::sparkles: **Featured:** :sparkles::sparkles: 
+
+- Completed 4/5 challenges in IBM Quantum Challenge (Fall 2020) and earned an 'Intermediate' badge.
+- Completed 2 weeks of Qiskit India Challenge and the team ranked 31st on the leaderboard. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6719509623524642816/) | [Read about my experience here](https://medium.com/@pragyakatyayan/the-qiskit-challenge-india-two-week-hackathon-in-quantum-machine-learning-58b0a3d26046).     
+- Received Certificate of Quantum Excellence for scoring 100% in the lab exercises of Qiskit Global Summer School 2020. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6704635671534981120/) | [Read about my experience here](https://medium.com/@pragyakatyayan/the-qiskit-global-summer-school-2020-my-quantum-awakening-9d5bb644a492)     
+- Got featured as a technologist role-model by 1 Million Women in STEM. [Link](https://www.1mwis.com/profiles/Pragya-Katyayan)
 
 #### :mortar_board: Educational Qualifications:
 
@@ -20,6 +25,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### :high_brightness: Notable Articles:
 
+:bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “Quantum Computing-Start your journey with Qiskit”. In Open Source For You (December 2020), Page: 97-102.
 :bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “A Quick Look at Quantum Computing”. In Open Source For You (July 2020), Page: 30-34.    
 :bulb: Pragya Katyayan, Nisheeth Joshi (2020, June). “Quantum Machine Learning- Where Quantum Computing Meets Machine Learning”. In CSI Communications-Knowledge Digest for IT Community (June 2020), 44(3), 34-36. Computer Society of India. ISSN: 0970-647X.
 
