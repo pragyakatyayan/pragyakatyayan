@@ -25,7 +25,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### :high_brightness: Notable Articles:
 
-:bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “Quantum Computing-Start your journey with Qiskit”. In Open Source For You (December 2020), Page: 97-102.
+:bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “Quantum Computing-Start your journey with Qiskit”. In Open Source For You (December 2020), Page: 97-102.    
 :bulb: Pragya Katyayan, Nisheeth Joshi (2020, July). “A Quick Look at Quantum Computing”. In Open Source For You (July 2020), Page: 30-34.    
 :bulb: Pragya Katyayan, Nisheeth Joshi (2020, June). “Quantum Machine Learning- Where Quantum Computing Meets Machine Learning”. In CSI Communications-Knowledge Digest for IT Community (June 2020), 44(3), 34-36. Computer Society of India. ISSN: 0970-647X.
 
