@@ -5,7 +5,7 @@
 
 :sparkles::sparkles: **Featured:** :sparkles::sparkles: 
 
-- Completed 4/5 challenges in IBM Quantum Challenge (Fall 2020) and earned an 'Intermediate' badge.
+- Completed 4/5 challenges in IBM Quantum Challenge (Fall 2020) and earned an 'Intermediate' badge. [Link to Badge](https://www.youracclaim.com/badges/3613e0ab-d500-4734-9848-1ad0fc33c804?source=linked_in_profile)
 - Completed 2 weeks of Qiskit India Challenge and the team ranked 31st on the leaderboard. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6719509623524642816/) | [Blog](https://medium.com/@pragyakatyayan/the-qiskit-challenge-india-two-week-hackathon-in-quantum-machine-learning-58b0a3d26046).     
 - Received Certificate of Quantum Excellence for scoring 100% in the lab exercises of Qiskit Global Summer School 2020. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6704635671534981120/) | [Blog](https://medium.com/@pragyakatyayan/the-qiskit-global-summer-school-2020-my-quantum-awakening-9d5bb644a492)     
 - Got featured as a technologist role-model by 1 Million Women in STEM. [Link](https://www.1mwis.com/profiles/Pragya-Katyayan)
