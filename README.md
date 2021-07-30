@@ -41,7 +41,7 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 		Quantum Computing Toolkit: Qiskit
 		Machine Learning Toolkits: Scikit-Learn, WEKA, NLTK, Stanford CoreNLP
 		Deep Learning Toolkits: Tensorflow, Keras, PyTorch
-	Also Familier with:
+	Also Familiar with:
 		Languages: Python 2, Prolog, R, Java, C#, D/HTML, Shell Scripts
 		Scripting Languages: Javascript, PHP.
 		Databases: MySQL, MS-SQL Server
