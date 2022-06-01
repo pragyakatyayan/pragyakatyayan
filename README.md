@@ -5,6 +5,7 @@
 
 :sparkles::sparkles: **Featured:** :sparkles::sparkles: 
 
+- IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X [Link to badge](https://www.credly.com/badges/4c30cd79-9f37-4a4b-bb13-1e23e8888b87)
 - Received Certificate of Quantum Excellence for completing the lab exercises of Qiskit Global Summer School 2021. [Link](https://sites.google.com/view/pragyakatyayan/home)
 - Completed 3/5 challenges in IBM Quantum Challenge (Summer 2021) and earned a 'Foundational' badge. [Link to Badge](https://www.credly.com/badges/5df96c26-6b5f-48a9-b3e2-83ee0eead8be?source=linked_in_profile)
 - Completed 4/5 challenges in IBM Quantum Challenge (Fall 2020) and earned an 'Intermediate' badge. [Link to Badge](https://www.youracclaim.com/badges/3613e0ab-d500-4734-9848-1ad0fc33c804?source=linked_in_profile)
