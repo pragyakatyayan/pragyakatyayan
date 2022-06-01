@@ -5,6 +5,7 @@
 
 :sparkles::sparkles: **Featured:** :sparkles::sparkles: 
 
+- Received Certificate of Quantum Excellence for completing the lab exercises of Qiskit Global Summer School 2021. [Link](https://sites.google.com/view/pragyakatyayan/home)
 - Completed 3/5 challenges in IBM Quantum Challenge (Summer 2021) and earned a 'Foundational' badge. [Link to Badge](https://www.credly.com/badges/5df96c26-6b5f-48a9-b3e2-83ee0eead8be?source=linked_in_profile)
 - Completed 4/5 challenges in IBM Quantum Challenge (Fall 2020) and earned an 'Intermediate' badge. [Link to Badge](https://www.youracclaim.com/badges/3613e0ab-d500-4734-9848-1ad0fc33c804?source=linked_in_profile)
 - Completed 2 weeks of Qiskit India Challenge and the team ranked 31st on the leaderboard. [Link](https://www.linkedin.com/feed/update/urn:li:activity:6719509623524642816/) | [Blog](https://medium.com/@pragyakatyayan/the-qiskit-challenge-india-two-week-hackathon-in-quantum-machine-learning-58b0a3d26046).     
