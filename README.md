@@ -1,10 +1,14 @@
 
-### Hi there! This is Pragya. 👋
+### Hi there! This is Dr. Pragya. 👋
 
 🔭 **Research Interests: Quantum Computing, Natural Language Processing (text), Machine Learning.**
 
 :sparkles::sparkles: **Featured:** :sparkles::sparkles: 
 
+- Quantum Excellence in QGSS-2023 (Badge yet to come)
+- IBM Quantum Challenge- Spring 2023 (Advanced Badge) [Link to badge](https://www.credly.com/badges/5e8fe954-a4cd-42aa-8fe4-3f8ea698b6b9/public_url)
+- Quantum Excellence in QGSS-2022 [Link](https://www.credly.com/badges/ab1a3313-6823-41ad-a4f9-d7a599161fb1/public_url)
+- IBM Qiskit Advocate [Link to badge](https://www.credly.com/badges/f0b1b2f2-27fc-42f3-9161-d3b9037424c1/public_url)
 - IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X [Link to badge](https://www.credly.com/badges/4c30cd79-9f37-4a4b-bb13-1e23e8888b87)
 - Received Certificate of Quantum Excellence for completing the lab exercises of Qiskit Global Summer School 2021. [Link](https://sites.google.com/view/pragyakatyayan/home)
 - Completed 3/5 challenges in IBM Quantum Challenge (Summer 2021) and earned a 'Foundational' badge. [Link to Badge](https://www.credly.com/badges/5df96c26-6b5f-48a9-b3e2-83ee0eead8be?source=linked_in_profile)
@@ -15,7 +19,7 @@
 
 #### :mortar_board: Educational Qualifications:
 
-:bulb: Doctor of Philosophy [Computer Science], [Pursuing], Banasthali Vidyapith, Rajasthan, India.  
+:bulb: Doctor of Philosophy [Computer Science], [2023], Banasthali Vidyapith, Rajasthan, India.  
 :bulb: Master of Science [Computer Science], [2018], Banasthali Vidyapith, Rajasthan, India.   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:closed_book: Master's Thesis Topic: Sarcasm Detection in Hindi using Machine Learning in Python.    
 :bulb: Master of Business Administration [Finance, Marketing], [2013], WISDOM, Banasthali Vidyapith, Rajasthan, India.    
@@ -34,6 +38,9 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### :high_brightness: Work Experience [brief]:
 
+:bulb: Senior Research Fellow for SERB(CRG) Project, Banasthali Vidyapith, India. [12 May 2023 - now]
+:bulb: Junior Research Fellow for SERB(CRG) Project, Banasthali Vidyapith, India. [12 May 2021 - 11 May 2023]
+:bulb: Research Scholar (full-time), Banasthali Vidyapith, India. [01 August 2018 - 10 May 2023]
 :bulb: Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]     
 :bulb: Post-graduate teacher to Higher secondary students for Computer Science [Python]. [July 2014 - March 2016]
 
@@ -44,11 +51,6 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 		Quantum Computing Toolkit: Qiskit
 		Machine Learning Toolkits: Scikit-Learn, WEKA, NLTK, Stanford CoreNLP
 		Deep Learning Toolkits: Tensorflow, Keras, PyTorch
-	Also Familiar with:
-		Languages: Python 2, Prolog, R, Java, C#, D/HTML, Shell Scripts
-		Scripting Languages: Javascript, PHP.
-		Databases: MySQL, MS-SQL Server
-		Tools: MATLAB, LaTex, SciLab
 
 #### :octocat: GitHub Stats:
 
