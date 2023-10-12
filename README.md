@@ -38,11 +38,11 @@ Visit: <a href="https://scholar.google.com/citations?user=HZTqQX8AAAAJ&hl=en"><i
 
 #### :high_brightness: Work Experience [brief]:
 
-:bulb: Senior Research Fellow for SERB(CRG) Project, Banasthali Vidyapith, India. [12 May 2023 - now]
-:bulb: Junior Research Fellow for SERB(CRG) Project, Banasthali Vidyapith, India. [12 May 2021 - 11 May 2023]
-:bulb: Research Scholar (full-time), Banasthali Vidyapith, India. [01 August 2018 - 10 May 2023]
-:bulb: Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]     
-:bulb: Post-graduate teacher to Higher secondary students for Computer Science [Python]. [July 2014 - March 2016]
+:bulb: Senior Research Fellow for SERB(CRG) Project, Banasthali Vidyapith, India. [12 May 2023 - now]         
+:bulb: Junior Research Fellow for SERB(CRG) Project, Banasthali Vidyapith, India. [12 May 2021 - 11 May 2023]         
+:bulb: Research Scholar (full-time), Banasthali Vidyapith, India. [01 August 2018 - 10 May 2023]         
+:bulb: Consultant to Microsoft Inc., Hyderabad, India. [April 2015 - April 2016]         
+:bulb: Post-graduate teacher to Higher secondary students for Computer Science [Python]. [July 2014 - March 2016]         
 
 #### :computer: Technical Experiences over the years:
 	
